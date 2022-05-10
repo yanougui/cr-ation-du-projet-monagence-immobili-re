@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp64/www/Agence/composer.json</file>
+            <file>file:/C:/wamp64/www/Agence/config/routes/annotations.yaml</file>
+            <file>file:/C:/wamp64/www/Agence/config/packages/debug.yaml</file>
+            <file>file:/C:/wamp64/www/Agence/src/Kernel.php</file>
+            <file>file:/C:/wamp64/www/Agence/config/routes/framework.yaml</file>
+            <file>file:/C:/wamp64/www/Agence/src/Controller/AccueilController.php</file>
+            <file>file:/C:/wamp64/www/Agence/config/services.yaml</file>
+            <file>file:/C:/wamp64/www/Agence/templates/pages/property.html.twig</file>
+            <file>file:/C:/wamp64/www/Agence/src/Entity/Property.php</file>
+            <file>file:/C:/wamp64/www/Agence/.env</file>
+            <file>file:/C:/wamp64/www/Agence/migrations/Version20220504163041.php</file>
+            <file>file:/C:/wamp64/www/Agence/config/routes.yaml</file>
+            <file>file:/C:/wamp64/www/Agence/.gitignore</file>
+            <file>file:/C:/wamp64/www/Agence/config/bundles.php</file>
+            <file>file:/C:/wamp64/www/Agence/templates/pages/accueil.html.twig</file>
+            <file>file:/C:/wamp64/www/Agence/src/Controller/.gitignore</file>
+            <file>file:/C:/wamp64/www/Agence/config/packages/cache.yaml</file>
+            <file>file:/C:/wamp64/www/Agence/bin/phpunit</file>
+            <file>file:/C:/wamp64/www/Agence/src/Repository/PropertyRepository.php</file>
+            <file>file:/C:/wamp64/www/Agence/src/Controller/PropertyController.php</file>
+            <file>file:/C:/wamp64/www/Agence/src/DataFixtures/AppFixtures.php</file>
+            <file>file:/C:/wamp64/www/Agence/src/Form/PropertyType.php</file>
+            <file>file:/C:/wamp64/www/Agence/tests/bootstrap.php</file>
+            <file>file:/C:/wamp64/www/Agence/bin/console</file>
+            <file>file:/C:/wamp64/www/Agence/templates/base.html.twig</file>
+            <file>file:/C:/wamp64/www/Agence/src/Entity/.gitignore</file>
+            <file>file:/C:/wamp64/www/Agence/var/log/dev.log</file>
+            <file>file:/C:/wamp64/www/Agence/public/index.php</file>
+            <file>file:/C:/wamp64/www/Agence/translations/.gitignore</file>
+            <file>file:/C:/wamp64/www/Agence/config/preload.php</file>
+            <file>file:/C:/wamp64/www/Agence/src/Repository/.gitignore</file>
+            <file>file:/C:/wamp64/www/Agence/migrations/Version20220504165919.php</file>
+            <file>file:/C:/wamp64/www/Agence/config/routes/web_profiler.yaml</file>
+        </group>
+    </open-files>
+</project-private>
